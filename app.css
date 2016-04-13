@@ -105,21 +105,3 @@ a:hover {
 a:active {
     text-decoration: none;
 }
-a:link {
-    color: yellow;
-}
-
-/* visited link */
-a:visited {
-    color: yellow;
-}
-
-/* mouse over link */
-a:hover {
-    color: yellow;
-}
-
-/* selected link */
-a:active {
-    color: yellow;
-}
