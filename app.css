@@ -90,18 +90,3 @@
     display: inline-block;
     font-size: 15px;
 }
-a.sources:link {
-    text-decoration: none;
-}
-
-a.sources:visited {
-    text-decoration: none;
-}
-
-a.sources:hover {
-    text-decoration: none;
-}
-
-a.sources:active {
-    text-decoration: none;
-}
